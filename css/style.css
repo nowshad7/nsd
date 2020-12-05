@@ -132,12 +132,12 @@ By default, top navigation bar uses "fixed" position
 }
 
 #section-topbar ul#nav .active a {
-  background: #44bbaa;
+  background: #E7CB08;
   border-left: 1px solid #111;
 }
 
 #section-topbar ul#nav .active a:hover {
-  background: #44bbaa;
+  background: #E7CB08;
 }
 
 #section-topbar i {
